@@ -1,0 +1,42 @@
+html {
+    background-color: white;
+    margin: 2cm;
+}
+body{
+    border-radius: 20px;
+    background-color: white;
+    display: block;
+    padding-top: 1rem;
+   
+    background-color: rgb(23, 252, 233);
+    align-items: center;
+    height: auto;
+    border: darkgray solid 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.perfil {
+    color: rgb(0, 0, 0);
+}
+.desc {
+    color: darkgray;
+}
+img{
+    border-radius: 120px;
+    width: 100px;
+    height: 100px;
+}
+div {
+ display: flex;
+ justify-content: center;
+}
+ 
+a {
+    margin: 5px;
+    background-color: gray;
+    padding: 3px;
+    border-radius: 5px;
+}
+h2 {
+    text-align: left;
+}
